@@ -1,0 +1,10 @@
+RaStudent Version 0.1 Changelog - In Turkish
+
+ - Programın ilk sürümü.
+ - Öğrenci ekleme sihirbazı eklendi.
+ - Rastgele öğrenci seçme programı.
+ - Seçilen öğrenci diğer tüm öğrenciler bitene kadar tekrardan seçilmiyor.
+ - Öğrenciler girilirken kullanıcıya kolaylık sağlaması için ilk harfler büyük, diğerleri küçük olacak şekilde ayarlandı.
+Örnek : eMİr tuĞRA olarak girilen öğrenci ismi Emir Tuğra olarak yazılıyor.
+
+Sürüm Notu : Programın ilk sürümü olduğu için hatalar olabilir. Hataları @_emirtdag_ Instagram hesabı üzerinden iletebilirsiniz.
